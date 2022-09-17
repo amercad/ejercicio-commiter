@@ -10,9 +10,9 @@ while(opt != 4):
     if():
 
     elif():
-
-    elif():
-
+        
+    elif(opt == 3):
+        print("Suerte mijo, que le vaya bien!")
     elif():
 
     else:
