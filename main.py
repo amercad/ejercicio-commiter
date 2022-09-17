@@ -7,12 +7,15 @@ print("===4. SALIR ===")
 opt = 100
 
 while(opt != 4):
+    opt = int(input("Elegir una opcion: "))
     if():
 
     elif():
 
     elif():
 
-    elif():
-
+    elif(opt ==4):
+        break
+    
     else:
+
